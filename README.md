@@ -1,4 +1,4 @@
-![background](https://github.com/user-attachments/assets/15c147f7-54f8-4116-ac49-1c62c78bb116)
+![Discovery](https://github.com/user-attachments/assets/2403c823-495a-4ec2-8dad-135c8c0ef801)
 <!--
 **ArhonJay/ArhonJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
