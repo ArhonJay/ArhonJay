@@ -11,9 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArhonJay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="145" alt="languages graph"  />
 </div>
 
-###
+<br clear="both">
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1tODJ0N3dkZWpyaHB0N2R0Z3VpMHNoMnJ2NXl2dmd5ODdyOWZwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93slSU4cOVOUOWCyl6/giphy.gif"  />
+<img src="https://raw.githubusercontent.com/ArhonJay/ArhonJay/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -60,11 +60,5 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ArhonJay/ArhonJay/output/snake.svg" alt="Snake animation" />
 
 ###
