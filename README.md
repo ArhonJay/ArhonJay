@@ -6,11 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArhonJay&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false" height="145" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArhonJay&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="145" alt="languages graph" />
-</div>
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ArhonJay/ArhonJay/output/snake.svg" alt="Snake animation" />
